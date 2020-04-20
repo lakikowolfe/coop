@@ -6,13 +6,13 @@ categories: # delete the categories that do not apply and keep at least one
   - Science
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - university of washington
-  - partnership
+  - collaboration
   - survivorship
   - uw msds
 ---
 ## Cancer Survivorship, Collaborations, and the Lessons of a First Time Through
 
-Since beginning work at Fred Hutch, I’ve had a series of distinct experiences that seem to follow a common pattern. You might find the pattern familiar: Someone learns about my work at a cancer research center and they share how their life has been touched by cancer. 
+Since beginning work at Fred Hutch, I’ve had a series of distinct experiences that seem to follow a common pattern. You might find it familiar: Someone learns about my work at a cancer research center and they share how their life has been touched by cancer. 
 
 I’ve heard stories I didn’t know from close friends and intimate details from strangers. Stories of diagnosis and treatment, stories of their own health and of loved ones and teachers and colleagues. A notable aspect of what society calls cancer is that these diseases, taken together, seem to highlight the fragility of all human life. Many of these stories, after all, are punctuated by death and there is no known action or group membership that can guarantee us safety. 
 
@@ -28,7 +28,7 @@ On Thursday, April 9th, four members of the University of Washington's Data Scie
 
 Insights derived from datasets like these can make dramatic differences in people’s lives. While cancer diagnosis and treatment naturally get a great deal of attention, the burden of the disease does not suddenly disappear following treatment. Cancer survivorship is an area of critical study and it was a remarkable opportunity for the students to engage with such compelling research. 
 
-During the presentation, the students were composed and well prepared. Focusing on their delivery and content, it’s not hard to imagine that getting there was simply the result of consistent effort applied with thoughtfulness and intelligence. While it’s no mistake to see such effort, thoughtfulness, and intelligence in their work, there is a bit more of a story to how we all ended up in that virtual presentation room. After all, the first time through anything can be more complicated than we anticipate. And if that first time through involves multiple nonprofit organizations, sensitive health information, remote computing, legacy code...well, it can be a lot more complicated.
+During the presentation, the students were composed and well prepared. Focusing on their delivery and content, it’s not hard to imagine that getting there was simply the result of consistent effort applied with thoughtfulness and intelligence. While it’s no mistake to see such effort, thoughtfulness, and intelligence in their work, there is a bit more of a story to how we all ended up in that virtual presentation room. After all, the first time through anything can be more complicated than we anticipate. And if that first time through involves multiple nonprofit organizations, sensitive health information, remote computing, legacy code...well, it can be *a lot* more complicated.
 
 ## Beginning a Partnership
 
