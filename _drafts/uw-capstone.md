@@ -9,6 +9,7 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - collaboration
   - survivorship
   - uw msds
+  - data science
 ---
 ## Cancer Survivorship, Collaborations, and the Lessons of a First Time Through
 
